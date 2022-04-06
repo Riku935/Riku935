@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hola :3
+## Este es mi perfil de GitHub 
+Soy estudiante de ingenieria en desarrollo de software y videojuegos en __Amerike__
 
-<!--
-**Riku935/Riku935** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estos son los lenguajes/herramientas que estoy estudiando
 
-Here are some ideas to get you started:
+- C# 
+- JavaScript
+- Html
+- Php
+- Unity 
+- Blender
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Si en 5 años quieres contratarme te dejo mis contactos
+
+👍 [Facebook](https://www.facebook.com/RichyCalderon302/)
+
+![Godfrey Elden Ring](https://store-images.s-microsoft.com/image/apps.49635.13645748391533750.649a3d72-0b84-471e-a53e-5e6baee14446.82ed0312-d066-48f3-80b8-bc222e8cea67?mode=scale&q=90&h=720&w=1280)
+
